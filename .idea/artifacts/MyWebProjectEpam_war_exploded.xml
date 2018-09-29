@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="MyWebProjectEpam:war exploded">
+    <output-path>$PROJECT_DIR$/target/EpamProject-1.3-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MyWebProjectEpam" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/EpamProject-1.3-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="MyWebProjectEpam/web/Web" />
+    </root>
+  </artifact>
+</component>
