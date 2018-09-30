@@ -9,7 +9,6 @@ public class Task {
     private String login;
     private boolean hasFile;
 
-
     public Task(int id, LocalDate date, String description, String login, boolean hasFile) {
         this.id = id;
         this.date = date;
