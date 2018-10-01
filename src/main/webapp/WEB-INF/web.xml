@@ -31,7 +31,7 @@
 
     <description>MySQL</description>
     <resource-ref>
-        <description>MySQL DB Connection Pool</description>
+        <description>MySQL DB Connection Pool </description>
         <res-ref-name>jdbc/mydb</res-ref-name>
         <res-type>javax.sql.DataSource</res-type>
         <res-auth>Container</res-auth>
