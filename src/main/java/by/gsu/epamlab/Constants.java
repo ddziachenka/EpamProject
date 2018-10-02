@@ -37,4 +37,6 @@ public class Constants {
     public static final String UTF_8 = "UTF-8";
     public static final String WEB_INF_PATH = "/WEB-INF/";
     public static final String FORWARD_REQUEST_URI = "javax.servlet.forward.request_uri";
+    
 }
+
